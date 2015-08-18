@@ -1,3 +1,4 @@
+During this assignment I learned how to effectivly plot data and how to use different graph types to analyze the data.
 # Chart data
 
 ## Description
