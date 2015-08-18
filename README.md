@@ -1,5 +1,7 @@
-# Chart data
+# Run '100s of 1000s.ipynb' and 'Exp 0 - 16.ipynb' files using Ipython Notebook
 
+##Chart data
+ 
 ## Description
 
 Chart data about coin flips.
